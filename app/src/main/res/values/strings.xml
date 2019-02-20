@@ -1,3 +1,37 @@
 <resources>
     <string name="app_name">Ongkir</string>
+    <string name="provinsi">Provinsi</string>
+    <string name="kota">Kota</string>
+    <string name="cek_harga">Cek Tarif</string>
+    <string name="masukkan_alamat">Asal Pengiriman</string>
+    <string name="masukkan_tujuan">Tujuan Pengiriman</string>
+    <string name="ubah">Ubah</string>
+    <string name="cek_tarif">Cek Harga</string>
+    <string name="berat_barang">Masukkan Berat Barang :</string>
+    <string name="pilih_kurir">Pilih Kurir</string>
+    <string name="jne">JNE</string>
+    <string name="pos">POS</string>
+    <string name="tiki">TIKI</string>
+    <string name="pilih">Pilih</string>
+    <string name="cari">Cari</string>
+    <string name="batal">Batal</string>
+    <string name="pilihan">Pilihan</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Check Shipping Cost</string>
+    <string name="slide_1_desc">Check Ongkir easier with the Ongkir application</string>
+
+    <string name="slide_2_title">Easy to use</string>
+    <string name="slide_2_desc">Ongkir application is very easy to use for anyone</string>
+
+    <string name="slide_3_title">Data Details</string>
+    <string name="slide_3_desc">The data presented is very accurate</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
 </resources>
